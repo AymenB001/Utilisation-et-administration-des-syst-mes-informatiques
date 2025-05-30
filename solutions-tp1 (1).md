@@ -14,6 +14,9 @@ Travail individuel.
 
 
 
+Mission 1 – Affichage de texte formaté
+Problème
+Afficher trois lignes spécifiques de texte (alpha, beta, gamma) dans un fichier en respectant les sauts de ligne.
 
 ## Solution de la mission 1 d'exemple
 
@@ -39,6 +42,9 @@ la mission a été validée, ce qui a conclu cette mission.
 
 
 
+Mission 2 – Navigation dans les répertoires
+Problème
+Atteindre un répertoire cible (paris) en naviguant dans une structure de dossiers en suivant des contraintes spécifiques (ordre, types de transport, etc.).
 
 ## Solution de la mission 2
 
@@ -63,7 +69,9 @@ gash check
 la mission a été validée, ce qui a conclu cette mission.
 
 
-
+Mission 3 – Déplacement de fichiers avec permissions
+Problème
+Déplacer un fichier (coffre) d’un emplacement à un autre et modifier ses permissions selon des règles précises.
 
 ## Solution de la mission 3
 
@@ -91,7 +99,9 @@ gash check
 la mission a été validée, ce qui a conclu cette mission.
 
 
-
+Mission 4 – Création d’un lien symbolique
+Problème
+Créer un tunnel (lien symbolique) entre deux répertoires spécifiques avec le bon chemin et le bon nom.
 
 ## Solution de la mission 4
 
@@ -115,7 +125,9 @@ gash check
 La mission n'a pas ete validee 
 
 
-
+Mission 5 – Recherche dans un fichier à une date précise
+Problème
+Trouver une ligne dans un fichier en fonction d’une date donnée en format Unix timestamp, convertie en format lisible (YYYY-MM-DD), et enregistrer cette ligne dans un fichier.
 
 ## Solution de la mission 5
 
@@ -140,7 +152,9 @@ gash check
 la mission a pas ete validee
 
 
-
+Mission 6 – Fusion et tri de fichiers
+Problème
+Fusionner deux fichiers ligne par ligne, puis trier le résultat dans l’ordre alphabétique et sauvegarder dans un fichier.
 
 ## Solution de la mission 6
 
@@ -165,7 +179,9 @@ gash check
 la mission a été validée, ce qui a conclu cette mission.
 
 
-
+Mission 7 – Recherche de suffixes spécifiques
+Problème
+Rechercher toutes les lignes d’un fichier se terminant par les lettres tz et sauvegarder ces résultats dans un fichier.
 
 ## Solution de la mission 7
 
@@ -190,7 +206,9 @@ gash check
 la mission a été validée, ce qui a conclu cette mission.
 
 
-
+Mission 8 – Compter les caractères d’une ligne spécifique
+Problème
+Afficher uniquement la 7e ligne d’un fichier texte et compter le nombre de caractères qu’elle contient.
 
 ## Solution de la mission 8
 
@@ -215,7 +233,9 @@ gash check
 la mission a été validée, ce qui a conclu cette mission.
 
 
-
+Mission 9 – Afficher une ligne spécifique
+Problème
+Afficher uniquement la ligne 9999 d’un fichier.
 
 ## Solution de la mission 9
 
@@ -240,7 +260,9 @@ gash check
 la mission a été validée, ce qui a conclu cette mission.
 
 
-
+Mission 10 – Compter les mots après avoir ignoré les 9 premiers caractères
+Problème
+Supprimer les 9 premiers caractères de chaque ligne d’un fichier, puis compter combien de mots il reste.
 
 ## Solution de la mission 10
 
@@ -264,6 +286,9 @@ gash check
 la mission a ete validee.
 
 
+Mission 11 – Création d’une arborescence complexe
+Problème
+Créer une structure de répertoires imbriqués représentant plusieurs pays et villes, d’un seul coup avec la bonne syntaxe.
 
 ## Solution de la mission 11
 
@@ -287,6 +312,9 @@ gash check
 la mission a été validée, ce qui a conclu cette mission.
 
 
+Mission 12 – Recherche et redirection conditionnelle de fichiers
+Problème
+Trouver tous les fichiers se terminant par .out et .err et rediriger leur chemin vers des fichiers log/out.log et log/err.log respectivement.
 
 ## Solution de la mission 12
 
@@ -314,7 +342,9 @@ la mission n'a pas ete validee.
 
 
 
-
+Mission 13 – Modification de permissions
+Problème
+Modifier les permissions de certains fichiers pour empêcher les autres utilisateurs (other) d’avoir accès en lecture, écriture et exécution.
 ## Solution de la mission 13
 
 ### État de la mission : résolue
@@ -336,7 +366,9 @@ gash check
 La mission a ete validee
 
 
-
+Mission 14 – Détection de palindromes
+Problème
+Trouver les mots qui sont des palindromes dans un fichier, c’est-à-dire qui restent les mêmes lus à l’endroit et à l’envers.
 ## Solution de la mission 14
 
 ### État de la mission :  résolue
